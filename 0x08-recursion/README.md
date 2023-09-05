@@ -1,1 +1,1 @@
-Add solutions to tasks on recurssions
+Solutions to tasks on static libraries
